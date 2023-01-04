@@ -1,0 +1,156 @@
+1. Write a program to print the marks obtained by a student in five tests.
+
+2. Write a program to print the average marks obtained by a student in five tests.
+
+3. Write a program to print a string using an array.
+
+4. Write a program to input a string through the keyboard and print the same.
+
+5. Write a program to find the sum of negative and positive integers.
+
+6. Write a program to find the sum of N numbers in an array
+
+7. Write a program to find the smallest element in the array
+
+8. Write a program to find the largest element in the array
+
+9. Write a program to find the 2nd smallest element in the array
+
+10. Write a program to find the 2nd largest element in the array
+
+11. Write a program to Print the Average of Numbers in array at an even position  
+
+12. Write a program to Print the Average of Numbers in array at an odd position  
+
+13. Write a program to print array elements in reverse order.
+
+14. Write a program to print array elements in reverse order using the swapping method.
+
+15. Write a program to separate even and odd numbers in an array.
+
+16. Write a program to print the frequency of all numbers in an array.
+
+17. Write a program to print the most occurring elements.
+
+18. Write a program to separate even and odd position numbers in an array.
+
+19. Write a program to separate positive and negative numbers in an array.
+
+20. Write a program to print lists of occurring elements in an array.
+
+21. Write a program to insert an element into an array at a specified position 
+
+22. Write a program to delete a specified integer in an array
+
+23. Write a program to search a specified integer in an array
+
+24. Write a program to find the array type 
+
+25. Write a program to sort the elements of an array 
+
+26. Write a program to count distinct elements of an array
+
+27. Write a program to remove duplicate elements in an array
+
+28. Write a program to check if two arrays are the same or not.
+
+29. Write a program to check if two arrays are disjoint or not.
+
+30. Write a program to check if one array is a subset of another array or not.
+
+31. Write a Program to Find the index of an element in an array.
+
+32. Write a Program to Sort an array in Descending order.
+
+33. Write a Program to Merge two unsorted arrays of different lengths.
+
+34. Write a Program to remove an element from an array by index.
+
+35. Write a Program to Find a pair with a given sum in the array.
+
+36. Write a Program to Find two elements whose sum is closest to zero in an Array
+
+37. Write a Program to Move all zeros to the end of an Array.
+
+38. Write a Program to Move all zeros to the Start of an Array.
+
+39. Write a Program to Find the mean and median of an unsorted array.
+
+40. Write a Program to Segregate 0s and 1s in an array.
+
+41. Write a Program to Find the median of two sorted arrays of different sizes.
+
+42. Write a Program to Find the median of two unsorted arrays.
+
+43. Write a Program to Find the Max sum contiguous subarray.
+
+44. Write a Program to Find a pair with maximum product in an array.
+
+45. Write a Program to Find the maximum product of 3 numbers in an array.
+
+46. Write a Program to Count inversions in an array.
+
+47. Write a Program to sort an array of 0s, 1s, and 2s.
+
+48. Write a program to find Maximum the difference between two elements in an array.
+
+49. Write a program to Find the Minimum difference between two elements in an array.
+
+50. Write a Program to Find missing numbers in an array.
+
+
+
+*********************************************************************************************************************
+                                                                 
+                                                                          Matrix or 2D Array-related problems. 
+
+*********************************************************************************************************************
+
+
+1. Write a Program to read and display a Matrix.
+
+2. Write a Program to Find the sum of all elements in a 2d array or Matrix.
+
+3. Write a Program to find the addition of two matrices.
+
+4. Write a Program to find the multiplication of two matrices.
+
+5. Write a Program to the Subtraction of two matrices.
+
+6. Write a Program to print the square of each element of the 2d array or matrix.
+
+7. Write a Program to find the transpose of a matrix.
+
+8. Write a Program to accept two matrices and check whether they are equal or Not.
+
+9. Write a Program to check whether a given matrix is an identity matrix or not.
+
+10. Write a Program to find whether the given is the matrix is diagonal or not.
+
+11. Write a Program to check whether a matrix is a scalar or not.
+
+12. Write a Program to find the sum of all diagonal elements of a matrix.
+
+13. Write a Program to check whether a matrix is sparse or not.
+
+14. Write a Program to display a lower triangular matrix.
+
+15. Write a Program to display an upper triangular matrix.
+
+16. Write a Program to check whether a matrix is symmetric or not.
+
+17. Write a Program to find the normal and trace of a matrix.
+
+18. Write a Program to find the sum of an upper triangular matrix.
+
+19. Write a Program to find the sum of a lower triangular matrix.
+
+20. Write a Program to find the maximum element in the matrix.
+
+21. Write a Program to find the minimum element in the matrix.
+
+22.  Write a Program to find the position of an element in a 2d array or Matrix.
+
+
+
+
